@@ -1,5 +1,6 @@
 @echo off 
 title AllProgramUpdater
+echo This version is unsupported (08/09/24)
 echo AllProgramUpdater
 echo Powered by Batch and Winget
 echo ---------------------
